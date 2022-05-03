@@ -1,0 +1,2 @@
+# Macabre.exe
+@Echo off
